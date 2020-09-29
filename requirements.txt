@@ -1,4 +1,4 @@
-Django==1.11
+Django==1.11.29
 djangorestframework==3.7.3
 mysqlclient
 requests
